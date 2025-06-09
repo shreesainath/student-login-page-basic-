@@ -98,28 +98,9 @@ The reset code is stored in the DB temporarily and verified manually.
 Tokens are stored in localStorage and attached to the Authorization header.
 
 📸 Wireframes
-Login & Dashboard wireframes included in /wireframes/ folder or generated via ChatGPT.
+Login & Dashboard wireframes included in /wireframes/ folder 
 
-✅ To Do
-Add real email service (Nodemailer)
 
-Implement logout token blacklisting
 
-Add user roles (admin/user)
 
-Deploy on Render/Heroku/Vercel
-
-🧑‍💻 Author
-Made by [Your Name] – Contributions welcome!
-
-📄 License
-MIT License
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want a **version with screenshots**,
 
